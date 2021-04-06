@@ -4,19 +4,20 @@ Visualization of the famous [Barnsely Fern](https://en.wikipedia.org/wiki/Barnsl
 
 - Using The Original Formula 
 
-  -  ![](Images/1.png)
+![](Images/1.png)
 
-    ![2](Images/2.png)
+![2](Images/2.png)
 
-    ![7](Images/7.png)
+![7](Images/7.png)
 
 - Green
-  - ![](Images/3.png)
+
+![](Images/3.png)
 
 - Random Probability
 
-  - ![](Images/4.png) 
+![](Images/4.png) 
 
-    ![](Images/5.png)
+![](Images/5.png)
 
     
